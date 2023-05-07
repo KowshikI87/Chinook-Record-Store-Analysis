@@ -1,0 +1,2 @@
+# Chinook-Record-Store-Analysis
+Analyzed a record store's sales database by running intermediate to advanced SQL queries using sqlite3 in Python, and utilized data manipulation libraries such as pandas and numpy for further data analysis. Employed data visualization techniques using matplotlib to effectively present insights. Based on the findings, recommended albums to purchase and identified target countries for increased advertisement efforts.
